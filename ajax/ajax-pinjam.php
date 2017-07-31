@@ -162,5 +162,6 @@ if($siswa_ada){
 </script>
 <?php
 }; //end if $_POST["siswa"] 
+}
 ?>
 </div><!--div content-->
